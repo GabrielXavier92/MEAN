@@ -1,0 +1,4 @@
+para subir o mongo depois de configurado conforme o link
+https://www.digitalocean.com/community/tutorials/como-instalar-o-mongodb-no-ubuntu-16-04-pt
+
+sudo systemctl start mongodb.service
