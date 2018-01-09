@@ -12,3 +12,5 @@ server.use(bodyParser.json())
 server.listen(port, function(){
     console.log(`BACKEND is runnig on port ${port}.`)
 })
+
+module.exports = server
